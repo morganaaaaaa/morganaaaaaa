@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="saintsblades banner" width="100%">
+<img src="assets/banner.jpg" alt="saintsblades banner" width="100%">
 
 <p align="center">
   <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
