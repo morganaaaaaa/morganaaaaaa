@@ -6,7 +6,7 @@
   <a href="https://www.roblox.com/users/164709248/profile"><img src="assets/btn-roblox.svg" alt="Roblox" width="190"></a>
 </p>
 
-<img src="assets/p-tagline.svg" width="100%" align="top" alt="Roblox developer, digital artist, musician">
+<img src="assets/p-heading.svg" width="100%" align="top" alt="Roblox developer, digital artist, musician">
 <img src="assets/art-panel.jpg" width="100%" align="top" alt="">
 <img src="assets/p-resident.svg" width="100%" align="top" alt="The Resident: Ayden, also known as saintsblades. San Francisco, California, USA.">
 <img src="assets/p-workshop.svg" width="100%" align="top" alt="The Workshop: 3 years coding in Luau, 1M+ visits on Roblox, 22k followers on TikTok.">
