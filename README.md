@@ -18,12 +18,12 @@
 </ul>
 </td>
 <td align="center" valign="middle" width="38%">
-<img src="assets/about-side.svg" alt="">
+<img src="assets/about-side.jpg" width="300" alt="">
 </td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="38%">
-<img src="assets/work-side.svg" alt="">
+<img src="assets/work-side.png" width="300" alt="">
 </td>
 <td valign="top" width="62%">
 <h3>The Workshop</h3>
@@ -45,9 +45,9 @@
 <sub>Add a favorite quote or lyric here.</sub>
 </td>
 <td align="center" valign="middle" width="38%">
-<img src="assets/closing-side.svg" alt="">
+<img src="assets/closing-side.jpg" width="260" alt="">
 </td>
 </tr>
 </table>
 
-<img src="assets/footer.svg" width="100%" alt="">
+<img src="assets/footer.png" width="100%" alt="">
