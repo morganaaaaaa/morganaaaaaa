@@ -9,9 +9,9 @@
 <table width="100%">
 <tr>
 <td valign="top" width="62%">
-<h3>The Resident</h3>
+<h3>In the Manor</h3>
 <ul>
-<li><b>Name:</b> Ayden, also known as <b>saintsblades</b></li>
+<li><b>Name:</b> Hey! My name is Ayden.
 <li><b>Location:</b> San Francisco, California, USA</li>
 <li><b>Does:</b> Roblox development, digital art and music</li>
 <li><b>Songs:</b> 40 and many more to come, 37k monthly listeners on Spotify</li>
