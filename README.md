@@ -1,42 +1,47 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="saintsblades banner" width="100%">
-</p>
+<img src="assets/banner.svg" alt="saintsblades banner" width="100%">
 
-<h1 align="center">saintsblades</h1>
-<p align="center"><i>Roblox developer · digital artist · musician</i></p>
+<div>
+<img src="assets/about-side.svg" width="300" align="right" alt="">
 
-<p align="center">
-  <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8b1a2b?style=for-the-badge&labelColor=0b0a0d&color=8b1a2b" alt="Portfolio"></a>
-  <a href="https://open.spotify.com/artist/5oD48NiKyvnA0H3WUtk10t"><img src="https://img.shields.io/badge/Spotify-c9a24b?style=for-the-badge&labelColor=0b0a0d&color=c9a24b" alt="Spotify"></a>
-  <a href="https://www.roblox.com/users/164709248/profile"><img src="https://img.shields.io/badge/Roblox-8b1a2b?style=for-the-badge&labelColor=0b0a0d&color=8b1a2b" alt="Roblox"></a>
-</p>
+<h2>The Resident</h2>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+- **Name:** Ayden, also known as **saintsblades**
+- **Location:** San Francisco, California, USA
+- **Does:** Roblox development, digital art and music
+- **Songs:** 40 and many more to come, 37k monthly listeners on Spotify
 
-## The Resident
-- Hey! My name is Ayden.
-- Based out of San Francisco, California, USA.
+<br/>
+<br/>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<img src="assets/work-side.svg" width="300" align="right" alt="">
 
-## The Workshop
+<h2>The Workshop</h2>
+
 - 3 years coding in Luau
 - 1M+ visits on Roblox
-- 37k monthly listeners on Spotify, 40 songs and many more to come
 - 22k followers on TikTok for my digital art, 1.1M+ likes on my animations
+- **Tools:** Roblox Studio, Luau, Blender, Moon Animator, FL Studio, Procreate and ibispaint
 
-`Roblox Studio` `Luau` `Blender` `Moon Animator` `FL Studio` `Procreate / ibispaint`
+<br/>
+<br/>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
+<img src="assets/closing-side.svg" width="260" align="right" alt="">
 
-## The Gallery
+<h2>The Studio</h2>
+
+- Updating my portfolio and writing new music
+- Latest release: **When I jump, I will be free**
+
+<img src="assets/closing-banner.svg" width="500" alt=""><br/>
+<sub>Add a favorite quote or lyric here.</sub>
+
+<br/><br/>
+
 <p align="center">
-  <img src="assets/gallery-1.svg" width="32%" alt="Gallery image 1">
-  <img src="assets/gallery-2.svg" width="32%" alt="Gallery image 2">
-  <img src="assets/gallery-3.svg" width="32%" alt="Gallery image 3">
+  <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
+  <a href="https://open.spotify.com/artist/5oD48NiKyvnA0H3WUtk10t"><img src="https://img.shields.io/badge/SPOTIFY-c9a24b?style=for-the-badge&labelColor=0b0a0d"></a>
+  <a href="https://www.roblox.com/users/164709248/profile"><img src="https://img.shields.io/badge/ROBLOX-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="60%" alt=""></p>
-
-## The Studio
-- Updating my portfolio and writing new music
+<img src="assets/footer.svg" width="100%" align="center" alt="">
+</div>
