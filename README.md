@@ -9,10 +9,9 @@
 
 ---
 
-### About
+### About Me
 - Hey! My name is Ayden.
 - Based out of San Francisco, California, USA.
-- 
 
 ### My work
 - 3 years coding in Luau
