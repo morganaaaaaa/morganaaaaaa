@@ -1,40 +1,48 @@
 <img src="assets/banner.svg" alt="saintsblades banner" width="100%">
 
-<img src="assets/about-side.svg" width="300" align="right" alt="">
-
-### The Resident
-
-- **Name:** Ayden, also known as **saintsblades**
-- **Location:** San Francisco, California, USA
-- **Does:** Roblox development, digital art and music
-- **Songs:** 40 and many more to come, 37k monthly listeners on Spotify
-
-<br clear="right">
-
-<img src="assets/work-side.svg" width="300" align="right" alt="">
-
-### The Workshop
-
-- 3 years coding in Luau
-- 1M+ visits on Roblox
-- 22k followers on TikTok for my digital art, 1.1M+ likes on my animations
-- **Tools:** Roblox Studio, Luau, Blender, Moon Animator, FL Studio, Procreate and ibispaint
-
-<br clear="right">
-
-<img src="assets/closing-side.svg" width="260" align="right" alt="">
-
-### The Studio
-
-- Updating my portfolio and writing new music
-- Latest release: **When I jump, I will be free**
-
-<br clear="right">
-
-<img src="assets/closing-banner.svg" width="500" alt=""><br/>
+<table width="100%">
+<tr>
+<td valign="top" width="62%">
+<h3>The Resident</h3>
+<ul>
+<li><b>Name:</b> Ayden, also known as <b>saintsblades</b></li>
+<li><b>Location:</b> San Francisco, California, USA</li>
+<li><b>Does:</b> Roblox development, digital art and music</li>
+<li><b>Songs:</b> 40 and many more to come, 37k monthly listeners on Spotify</li>
+</ul>
+</td>
+<td align="center" valign="middle" width="38%">
+<img src="assets/about-side.svg" alt="">
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="38%">
+<img src="assets/work-side.svg" alt="">
+</td>
+<td valign="top" width="62%">
+<h3>The Workshop</h3>
+<ul>
+<li>3 years coding in Luau</li>
+<li>1M+ visits on Roblox</li>
+<li>22k followers on TikTok for my digital art, 1.1M+ likes on my animations</li>
+<li><b>Tools:</b> Roblox Studio, Luau, Blender, Moon Animator, FL Studio, Procreate and ibispaint</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="62%">
+<h3>The Studio</h3>
+<ul>
+<li>Updating my portfolio and writing new music</li>
+<li>Latest release: <b>When I jump, I will be free</b></li>
+</ul>
 <sub>Add a favorite quote or lyric here.</sub>
-
-<br/><br/>
+</td>
+<td align="center" valign="middle" width="38%">
+<img src="assets/closing-side.svg" alt="">
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
@@ -42,4 +50,4 @@
   <a href="https://www.roblox.com/users/164709248/profile"><img src="https://img.shields.io/badge/ROBLOX-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" align="center" alt="">
+<img src="assets/footer.svg" width="100%" alt="">
