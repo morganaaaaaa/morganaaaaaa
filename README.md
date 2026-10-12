@@ -1,5 +1,11 @@
 <img src="assets/banner.svg" alt="saintsblades banner" width="100%">
 
+<p align="center">
+  <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
+  <a href="https://open.spotify.com/artist/5oD48NiKyvnA0H3WUtk10t"><img src="https://img.shields.io/badge/SPOTIFY-c9a24b?style=for-the-badge&labelColor=0b0a0d"></a>
+  <a href="https://www.roblox.com/users/164709248/profile"><img src="https://img.shields.io/badge/ROBLOX-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
+</p>
+
 <table width="100%">
 <tr>
 <td valign="top" width="62%">
@@ -43,11 +49,5 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://morganaaaaaa.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
-  <a href="https://open.spotify.com/artist/5oD48NiKyvnA0H3WUtk10t"><img src="https://img.shields.io/badge/SPOTIFY-c9a24b?style=for-the-badge&labelColor=0b0a0d"></a>
-  <a href="https://www.roblox.com/users/164709248/profile"><img src="https://img.shields.io/badge/ROBLOX-8b1a2b?style=for-the-badge&labelColor=0b0a0d"></a>
-</p>
 
 <img src="assets/footer.svg" width="100%" alt="">
