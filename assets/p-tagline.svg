@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="90" viewBox="0 0 830 90"><rect width="830" height="90" fill="#171416"/>
-<line x1="50" y1="20" x2="385.0" y2="20" stroke="#682D3A" stroke-width="1.5"/><line x1="445.0" y1="20" x2="780" y2="20" stroke="#682D3A" stroke-width="1.5"/>
-<rect x="407.0" y="12" width="16" height="16" transform="rotate(45 415.0 20)" fill="none" stroke="#B49A70" stroke-width="1.5"/><circle cx="415.0" cy="20" r="2.5" fill="#B49A70"/><text x="415.0" y="64" fill="#B49A70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" text-anchor="middle">&#10022;&#160; Roblox developer &#183; digital artist &#183; musician &#160;&#10022;</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="160" viewBox="0 0 830 160">
+<rect width="830" height="160" fill="#171416"/>
+<line x1="50" y1="20" x2="385" y2="20" stroke="#682D3A" stroke-width="1.5"/>
+<line x1="445" y1="20" x2="780" y2="20" stroke="#682D3A" stroke-width="1.5"/>
+<rect x="407" y="12" width="16" height="16" transform="rotate(45 415 20)" fill="none" stroke="#B49A70" stroke-width="1.5"/>
+<circle cx="415" cy="20" r="2.5" fill="#B49A70"/>
+<!-- MAIN HEADING: edit the text below -->
+<text x="415" y="92" fill="#E8DDC8" font-family="Georgia,'Times New Roman',serif" font-size="52" letter-spacing="8" text-anchor="middle">SAINTSBLADES</text>
+<!-- TAGLINE: edit the text below -->
+<text x="415" y="134" fill="#B49A70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle">&#10022;  Roblox developer &#183; digital artist &#183; musician  &#10022;</text>
 </svg>
