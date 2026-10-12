@@ -1,17 +1,25 @@
-- Name: **Ayden Trinh**.
+<h1 align="center">saintsblades</h1>
+<p align="center">Roblox developer · digital artist · musician</p>
 
-- From: **San Francisco, California, by way of Bắc Giang, Bắc Ninh, Vietnam**.
+<p align="center">
+  <a href="https://morganaaaaaa.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://open.spotify.com/artist/5oD48NiKyvnA0H3WUtk10t">Spotify</a> ·
+  <a href="https://www.roblox.com/users/164709248/profile">Roblox</a>
+</p>
 
-- Off the clock: Visual novel enjoyer, manga reader, water polo player.
+---
 
-<img src="./img/top-langs.svg" align=right />
-<br/>
-<br/>
-<img src="./img/mid_archive.png" width="488" />
-<br/>
-<br/>
-  
-<img src="./img/mid_profile.png" width="270" align="right" />
-<br/>
-<img src="./img/mid_banner.png" width="500" /><br/>
-<sub>“It’s not my fault. It’s society’s fault. ” – Hikigaya Hachiman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### About
+I build worlds in Roblox Studio, paint in Procreate and make music in FL Studio.
+[Add one or two lines about yourself.]
+
+### Stats
+- 3 years coding in Luau
+- 1M+ visits on Roblox
+- 37K monthly listeners on Spotify, 40 songs
+
+### Tools
+`Roblox Studio` `Luau` `Blender` `Moon Animator` `FL Studio` `Procreate`
+
+### Currently
+- Updating my portfolio and writing new music
