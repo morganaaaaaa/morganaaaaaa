@@ -5,7 +5,7 @@
 <rect x="407" y="12" width="16" height="16" transform="rotate(45 415 20)" fill="none" stroke="#B49A70" stroke-width="1.5"/>
 <circle cx="415" cy="20" r="2.5" fill="#B49A70"/>
 <!-- MAIN HEADING: edit the text below -->
-<text x="415" y="92" fill="#E8DDC8" font-family="Georgia,'Times New Roman',serif" font-size="52" letter-spacing="8" text-anchor="middle">SAINTSBLADES</text>
+<text x="415" y="92" fill="#E8DDC8" font-family="Georgia,'Times New Roman',serif" font-size="52" letter-spacing="8" text-anchor="middle">Welcome to my manor..</text>
 <!-- TAGLINE: edit the text below -->
 <text x="415" y="134" fill="#B49A70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle">&#10022;  Roblox developer &#183; digital artist &#183; musician  &#10022;</text>
 </svg>
