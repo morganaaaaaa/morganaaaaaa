@@ -1,36 +1,35 @@
 <img src="assets/banner.svg" alt="saintsblades banner" width="100%">
 
-<div>
 <img src="assets/about-side.svg" width="300" align="right" alt="">
 
-<h3>The Resident</h3>
+### The Resident
 
 - **Name:** Ayden, also known as **saintsblades**
 - **Location:** San Francisco, California, USA
 - **Does:** Roblox development, digital art and music
 - **Songs:** 40 and many more to come, 37k monthly listeners on Spotify
 
-<br clear="right"/>
+<br clear="right">
 
 <img src="assets/work-side.svg" width="300" align="right" alt="">
 
-<h3>The Workshop</h3>
+### The Workshop
 
 - 3 years coding in Luau
 - 1M+ visits on Roblox
 - 22k followers on TikTok for my digital art, 1.1M+ likes on my animations
 - **Tools:** Roblox Studio, Luau, Blender, Moon Animator, FL Studio, Procreate and ibispaint
 
-<br clear="right"/>
+<br clear="right">
 
 <img src="assets/closing-side.svg" width="260" align="right" alt="">
 
-<h3>The Studio</h3>
+### The Studio
 
 - Updating my portfolio and writing new music
 - Latest release: **When I jump, I will be free**
 
-<br clear="right"/>
+<br clear="right">
 
 <img src="assets/closing-banner.svg" width="500" alt=""><br/>
 <sub>Add a favorite quote or lyric here.</sub>
@@ -44,4 +43,3 @@
 </p>
 
 <img src="assets/footer.svg" width="100%" align="center" alt="">
-</div>
