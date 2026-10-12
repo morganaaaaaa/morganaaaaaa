@@ -10,16 +10,18 @@
 ---
 
 ### About
-I build worlds in Roblox Studio, paint in Procreate and make music in FL Studio.
-[Add one or two lines about yourself.]
+- Hey! My name is Ayden.
+- Based out of San Francisco, California, USA.
+- 
 
-### Stats
+### My work
 - 3 years coding in Luau
 - 1M+ visits on Roblox
-- 37K monthly listeners on Spotify, 40 songs
+- 37k monthly listeners on Spotify, 40 songs and many more to come
+- 22k followers on TikTok for my digital art, 1.1M+ likes on my animations
 
 ### Tools
-`Roblox Studio` `Luau` `Blender` `Moon Animator` `FL Studio` `Procreate`
+`Roblox Studio` `Luau` `Blender` `Moon Animator` `FL Studio` `Procreate / ibispaint`
 
 ### Currently
 - Updating my portfolio and writing new music
