@@ -8,36 +8,28 @@
 
 <p align="center"><i>Roblox developer · digital artist · musician</i></p>
 
-<table width="100%">
-<tr>
-<td align="center" valign="middle" width="40%">
-<img src="assets/work-side.png" alt="">
-</td>
-<td valign="top" width="60%">
-<h3>The Resident</h3>
-<ul>
-<li><b>Name:</b> Ayden, also known as <b>saintsblades</b></li>
-<li><b>Location:</b> San Francisco, California, USA</li>
-<li><b>Does:</b> Roblox development, digital art and music</li>
-</ul>
-<h3>The Workshop</h3>
-<ul>
-<li>3 years coding in Luau</li>
-<li>1M+ visits on Roblox</li>
-<li>22k followers on TikTok for my digital art, 1.1M+ likes on my animations</li>
-<li><b>Tools:</b> Roblox Studio, Luau, Blender, Moon Animator, FL Studio, Procreate and ibispaint</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h3>The Studio</h3>
+<p align="center"><img src="assets/work-side.png" width="460" alt=""></p>
+
+<h3 align="center">The Resident</h3>
+<p align="center">
+Ayden, also known as <b>saintsblades</b><br>
+San Francisco, California, USA<br>
+Roblox development, digital art and music
+</p>
+
+<h3 align="center">The Workshop</h3>
+<p align="center">
+3 years coding in Luau · 1M+ visits on Roblox<br>
+22k followers on TikTok for my digital art · 1.1M+ likes on my animations<br>
+<sub>Roblox Studio · Luau · Blender · Moon Animator · FL Studio · Procreate · ibispaint</sub>
+</p>
+
+<h3 align="center">The Studio</h3>
+<p align="center">
 40 songs and many more to come · 37k monthly listeners on Spotify<br>
 Latest release: <b>When I jump, I will be free</b><br>
 Updating my portfolio and writing new music<br><br>
-<sub>Add a favorite quote or lyric here.</sub>
-</td>
-</tr>
-</table>
+<sub><i>Add a favorite quote or lyric here.</i></sub>
+</p>
 
 <img src="assets/footer.png" width="100%" alt="">
