@@ -8,7 +8,7 @@
 
 <img src="assets/p-heading.svg?v=5" width="100%" align="top" alt="Roblox developer, digital artist, musician">
 <img src="assets/art-panel.jpg?v=5" width="100%" align="top" alt="">
-<img src="assets/p-resident.svg?v=5" width="100%" align="top" alt="The Resident: Ayden Trinh (Trịnh Hoàng Huy). San Francisco, California, USA.">
+<img src="assets/p-resident.svg?v=6" width="100%" align="top" alt="The Resident: Ayden Trinh. San Francisco, California, USA.">
 <img src="assets/p-workshop.svg?v=5" width="100%" align="top" alt="The Workshop: 3 years coding in Luau, 1M+ visits on Roblox, 22k followers on TikTok.">
 <img src="assets/p-studio.svg?v=5" width="100%" align="top" alt="The Studio: 40 songs, 37k monthly Spotify listeners, latest release When I jump, I will be free.">
 <img src="assets/footer.png?v=5" width="100%" align="top" alt="">
